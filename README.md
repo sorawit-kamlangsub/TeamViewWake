@@ -1,4 +1,5 @@
 # How to run from ssh
+run with run.ps1 script
 ```powershell
 cd [Path of TeamViewWake.exe]
 ```
