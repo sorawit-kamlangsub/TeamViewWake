@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TeamViewWake": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
