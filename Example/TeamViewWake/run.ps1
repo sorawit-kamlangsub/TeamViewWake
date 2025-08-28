@@ -1,4 +1,4 @@
-param([string]$Exe="C:\Users\NB-67-06-01\TeamViewWake\TeamviewWake.exe")
+param([string]$Exe="C:\Users\<YourUser>\TeamViewWake\TeamviewWake.exe")
 
 $task = "Run_TeamviewWake_Interactive"
 
