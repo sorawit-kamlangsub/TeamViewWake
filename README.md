@@ -3,9 +3,7 @@ run with run.ps1 script if you see Unhandled exception. FlaUI.Core.Exceptions.Me
    at FlaUI.Core.AutomationElements.Window.Close()
    at Program.Main()
 that error when teamviewer on second screen you must run this program with single screen only
-```powershell
-cd [Path of TeamViewWake.exe]
-```
+
 ```powershell
 powershell -ExecutionPolicy Bypass -File C:\Users\NB-67-06-01\TeamViewWake\run.ps1
 ```
