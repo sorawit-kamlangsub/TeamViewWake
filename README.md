@@ -7,7 +7,7 @@ that error when teamviewer on second screen you must run this program with singl
 cd [Path of TeamViewWake.exe]
 ```
 ```powershell
-powershell -ExecutionPolicy Bypass -File .\run.ps1
+powershell -ExecutionPolicy Bypass -File C:\Users\NB-67-06-01\TeamViewWake\run.ps1
 ```
 ```powershell
 powershell Get-Content C:\Users\NB-67-06-01\TeamViewWake\TeamViewWake.log -Tail 50
